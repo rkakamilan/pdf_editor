@@ -20,6 +20,7 @@ log/
 *.pkl
 *.zip
 *.trajectory*
+exp/
 
 # Distribution / packaging
 .Python
