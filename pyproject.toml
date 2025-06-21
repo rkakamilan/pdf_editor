@@ -1,0 +1,9 @@
+[project]
+name = "pdf-editor"
+version = "0.1.0"
+description = "大きなPDFファイルを分割するツール"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pypdf>=5.6.0",
+]
